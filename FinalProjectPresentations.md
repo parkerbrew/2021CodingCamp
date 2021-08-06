@@ -22,3 +22,6 @@ Single-cell RNAseq data analysis using the Suerat package in R
 
 William Kariampuzha
 Training BioBERT for Multi-Type Named Entity Recognition
+
+Parker Brewster
+Python-based Machine Learning as it Applies to Compound Activity Predictions
